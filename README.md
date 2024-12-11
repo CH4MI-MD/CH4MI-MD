@@ -31,11 +31,11 @@
 
 ---
 
-<a href="https://ch4miqrveb-1d064bcd8502.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://vajiraqrveb-1d064bcd8502.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
 <a href="https://stuck-godiva-vajiratech2003-a4248d0c.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
-<a href="https://CH4MI-MD.github.io/CH4MI-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
+<a href="https://vajiratech.github.io/CH4MI-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
 <br>
 
 <br>
@@ -52,7 +52,7 @@
 
 ---
 
-## 👑 **`CH4MI-MD BOT OWNER,`** 👑
+## 👑 **`CH4MI-MD OWNER,`** 👑
 
 
    <a href="https://github.com/CH4MI-MD/"><img src="https://i.ibb.co/bKBDBcj/f69aa43a2d63b952.jpg/u/106251140?v=4" width=80 height=80></a>   
