@@ -35,6 +35,9 @@
 
 <a href="https://stuck-godiva-vajiratech2003-a4248d0c.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
+<a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
+<br>
+
 <br>
 
 [![FORK CH4MI-MD](https://img.shields.io/badge/FORK%20-CH4MI-MD-white)](https://github.com/CH4MI-MD/CH4MI-MD/fork)
