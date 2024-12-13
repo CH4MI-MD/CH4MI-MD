@@ -31,7 +31,7 @@
 
 ---
 
-https://flat-nellie-cham-8a33601b.koyeb.app/
+
 
 <br>
 
@@ -39,11 +39,7 @@ https://flat-nellie-cham-8a33601b.koyeb.app/
 
  ---
  
-<a href="https://prabath-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
-
----
-
-<a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://flat-nellie-cham-8a33601b.koyeb.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
 
 ---
 
@@ -55,8 +51,6 @@ https://flat-nellie-cham-8a33601b.koyeb.app/
 ---
 
 |**[`CHAMINDU LAKSHAN`](https://github.com/CH4MI-MD)**|
-
----
 
 ---
 
